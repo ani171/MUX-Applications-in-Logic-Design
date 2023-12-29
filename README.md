@@ -56,3 +56,8 @@ Explore our ICAEECI 2023 paper on the practical applications of Multiplexers (MU
   3. Suitable for complex logic functions.
   4. Well-adapted to dynamic and changing environments.
   5. Potential for reduced power consumption compared to static approaches.
+
+### Powe Consumption
+1. Static CMOS Logic: Suitable for low-power static states.
+2. Dynamic Logic: Offers lower dynamic power consumption for high-speed operations.
+3. Domino Logic: Strikes a balance, providing competitive power efficiency for both static and dynamic scenarios.
