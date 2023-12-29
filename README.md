@@ -32,7 +32,7 @@ Explore our ICAEECI 2023 paper on the practical applications of Multiplexers (MU
 * Usage: Control data flow in digital systems, acting as analog switches or pass gates.
 * Importance: Key components in computers and digital systems, blocking or allowing signals in a circuit.
 * Advantages:
-1. Low resistance and minimal signal distortion.
-2. Lower power consumption.
-3. Faster signal switching compared to other switches.
-4. Less susceptible to errors from noise or interference.
+  1. Low resistance and minimal signal distortion.
+  2. Lower power consumption.
+  3. Faster signal switching compared to other switches.
+  4. Less susceptible to errors from noise or interference.
