@@ -36,3 +36,23 @@ Explore our ICAEECI 2023 paper on the practical applications of Multiplexers (MU
   2. Lower power consumption.
   3. Faster signal switching compared to other switches.
   4. Less susceptible to errors from noise or interference.
+  
+### Domino logic
+* Function: Domino logic is a design approach in electronics.
+* Usage: Used to create efficient and fast digital circuits.
+* Working Principle: It employs a cascading structure, where the output of one stage triggers the next.
+* Advantages:
+  1. Faster operation due to sequential signal propagation.
+  2. Suitable for high-speed digital applications.
+  3. Simpler design compared to some other logic families.
+ 4. Well-suited for applications with minimal power constraints.
+
+### Dynamic Logic
+* Usage: Employed in creating high-performance digital circuits.
+* Working Principle: Relies on charge storage and release for signal processing.
+* Advantages:
+  1. Faster operation with parallel signal processing.
+  2. Efficient for high-speed applications.
+  3. Suitable for complex logic functions.
+  4. Well-adapted to dynamic and changing environments.
+  5. Potential for reduced power consumption compared to static approaches.
